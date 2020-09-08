@@ -1,0 +1,61 @@
+http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/
+https://medium.com/analytics-vidhya/naive-bayes-classifier-for-text-classification-556fabaf252b
+https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/#:~:text=Naive%20Bayes%20Model-,What%20is%20Naive%20Bayes%20algorithm%3F,presence%20of%20any%20other%20feature.
+https://brilliant.org/wiki/bayes-theorem/
+https://machinelearning-blog.com/2018/04/23/logistic-regression-101/
+https://stackoverflow.com/questions/48090757/text-classification-using-decision-trees-in-python
+What is a Random Walk? | Infinite Series
+https://www.youtube.com/watch?v=stgYW6M5o4k
+links for Random walk:
+----------------------
+http://smallstats.blogspot.com/2014/04/from-random-walks-to-personalized.html
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.1001&rep=rep1&type=pdf
+https://www.kaisataipale.net/blog/2015/12/15/random-walks-in-python/
+https://www.cs.cmu.edu/~avrim/598/chap5only.pdf
+https://micans.org/mcl/index.html
+Min cut max flow
+https://www.youtube.com/watch?v=YMME2Xaqnq8
+https://www.coursera.org/lecture/algorithms-part2/introduction-to-maxflow-jZVUm
+https://www.coursera.org/lecture/advanced-algorithms-and-complexity/maxflow-mincut-54NBL
+what is the maximum capacity of each edge?
+https://www.geeksforgeeks.org/choose-optimal-number-of-epochs-to-train-a-neural-network-in-keras/
+https://www.geeksforgeeks.org/decision-tree/
+https://monkeylearn.com/text-classification-support-vector-machines-svm/
+https://en.wikipedia.org/wiki/Random_forest
+https://missinglink.ai/guides/convolutional-neural-networks/using-convolutional-neural-networks-sentence-classification/
+https://www.aclweb.org/anthology/D14-1181/
+https://archive.siam.org/meetings/sdm06/proceedings/031xuy.pdf
+aladdin.cs.cmu.edu/papers/pdfs/y2001/mincut.pdf
+https://byjus.com/maths/logistic-function/
+https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
+https://itnext.io/string-similarity-the-basic-know-your-algorithms-guide-3de3d7346227
+https://www.researchgate.net/figure/Schematic-diagram-of-a-basic-convolutional-neural-network-CNN-architecture-26_fig1_336805909
+https://datascience.stackexchange.com/questions/25650/what-is-lstm-bilstm-and-when-to-use-them
+https://www.researchgate.net/figure/BiLSTM-network-with-one-layer-running-on-foobar-The-vertical-dashed-line-indicates-the_fig2_325463806
+https://en.wikipedia.org/wiki/Long_short-term_memory
+https://www.i2tutorials.com/deep-dive-into-bidirectional-lstm/
+https://towardsdatascience.com/fasttext-bag-of-tricks-for-efficient-text-classification-513ba9e302e7
+https://missinglink.ai/guides/keras/keras-conv1d-working-1d-convolutional-neural-networks-keras/#:~:text=Understanding%20Keras%20Conv1D%20Parameters,of%20outputs%20(see%20documentation)
+https://en.wikipedia.org/wiki/Cohen%27s_kappa#:~:text=Cohen's%20kappa%20coefficient%20(%CE%BA)%20is,for%20qualitative%20(categorical)%20items.&text=There%20is%20controversy%20surrounding%20Cohen's,in%20interpreting%20indices%20of%20agreement.
+https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/
+Unrepresentative Data Sample - https://machinelearningmastery.com/the-model-performance-mismatch-problem/
+https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+https://github.com/balcilar/SemiSupervisedMarkovRandomWalk/blob/master/sslMarkovRandomWalks.py
+https://en.wikipedia.org/wiki/Naive_Bayes_classifier
+https://github.com/facebookresearch/fastText/issues/523
+https://github.com/balcilar/SemiSupervisedMarkovRandomWalk
+https://www.researchgate.net/figure/A-random-walk-Markov-chain_fig2_220065348
+https://gdcoder.com/what-is-an-embedding-layer/
+https://neural-monkey.readthedocs.io/en/latest/machine_translation.html
+https://google.github.io/seq2seq/nmt/
+http://www.statmt.org/moses/?n=FactoredTraining.PrepareTraining
+https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
+https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18
+https://www.kaggle.com/sid321axn/fraud-detection-deep-learning-with-smote
+
+
+
+
+
+
