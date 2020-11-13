@@ -5,6 +5,6 @@ This paper has been accepted in **28th Irish Conference for Artificial Intellige
 
 The published dataset is in **Hindi language** and all the excel files have 3 columns - Category, Label, Reviews
 
-_Category_ : Category means the business area to which the review belongs 
-_Label_ : Label is the annotation as complaint or non-complaint 
+_Category_ : Category means the business area to which the review belongs  
+_Label_ : Label is the annotation as complaint or non-complaint  
 _Reviews_ : Review is the text in Hindi language
